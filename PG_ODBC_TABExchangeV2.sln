@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PG_ODBC_TABExchangeV2", "PG_ODBC_TABExchangeV2\PG_ODBC_TABExchangeV2.csproj", "{C690A3AC-69A0-4BED-829C-CF6422BF60AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C690A3AC-69A0-4BED-829C-CF6422BF60AE}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{C690A3AC-69A0-4BED-829C-CF6422BF60AE}.All|Any CPU.Build.0 = Release|Any CPU
+		{C690A3AC-69A0-4BED-829C-CF6422BF60AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C690A3AC-69A0-4BED-829C-CF6422BF60AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C690A3AC-69A0-4BED-829C-CF6422BF60AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C690A3AC-69A0-4BED-829C-CF6422BF60AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42657C6-37E4-460C-8363-236B08AC9537}
+	EndGlobalSection
+EndGlobal

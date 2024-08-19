@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PG_ODBC_TABExchangeV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|d:\\pg_odbc_tabexchangev2\\pg_odbc_tabexchangev2\\cfgreader\\cfgreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|solutionrelative:pg_odbc_tabexchangev2\\cfgreader\\cfgreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|d:\\pg_odbc_tabexchangev2\\pg_odbc_tabexchangev2\\database\\localdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|solutionrelative:pg_odbc_tabexchangev2\\database\\localdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|d:\\pg_odbc_tabexchangev2\\pg_odbc_tabexchangev2\\database\\webdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|solutionrelative:pg_odbc_tabexchangev2\\database\\webdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|d:\\pg_odbc_tabexchangev2\\pg_odbc_tabexchangev2\\logfilewriter\\logwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|solutionrelative:pg_odbc_tabexchangev2\\logfilewriter\\logwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|d:\\pg_odbc_tabexchangev2\\pg_odbc_tabexchangev2\\progressbar\\progressbarclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|solutionrelative:pg_odbc_tabexchangev2\\progressbar\\progressbarclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|d:\\pg_odbc_tabexchangev2\\pg_odbc_tabexchangev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690A3AC-69A0-4BED-829C-CF6422BF60AE}|PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2.csproj|solutionrelative:pg_odbc_tabexchangev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CfgReader.cs",
+              "DocumentMoniker": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\CFGReader\\CfgReader.cs",
+              "RelativeDocumentMoniker": "PG_ODBC_TABExchangeV2\\CFGReader\\CfgReader.cs",
+              "ToolTip": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\CFGReader\\CfgReader.cs",
+              "RelativeToolTip": "PG_ODBC_TABExchangeV2\\CFGReader\\CfgReader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:30:28.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalDB.cs",
+              "DocumentMoniker": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\Database\\LocalDB.cs",
+              "RelativeDocumentMoniker": "PG_ODBC_TABExchangeV2\\Database\\LocalDB.cs",
+              "ToolTip": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\Database\\LocalDB.cs",
+              "RelativeToolTip": "PG_ODBC_TABExchangeV2\\Database\\LocalDB.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:30:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebDB.cs",
+              "DocumentMoniker": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\Database\\WebDB.cs",
+              "RelativeDocumentMoniker": "PG_ODBC_TABExchangeV2\\Database\\WebDB.cs",
+              "ToolTip": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\Database\\WebDB.cs",
+              "RelativeToolTip": "PG_ODBC_TABExchangeV2\\Database\\WebDB.cs",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:29:57.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogWriter.cs",
+              "DocumentMoniker": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\LOGFileWriter\\LogWriter.cs",
+              "RelativeDocumentMoniker": "PG_ODBC_TABExchangeV2\\LOGFileWriter\\LogWriter.cs",
+              "ToolTip": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\LOGFileWriter\\LogWriter.cs",
+              "RelativeToolTip": "PG_ODBC_TABExchangeV2\\LOGFileWriter\\LogWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:29:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProgressBarClass.cs",
+              "DocumentMoniker": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\ProgressBar\\ProgressBarClass.cs",
+              "RelativeDocumentMoniker": "PG_ODBC_TABExchangeV2\\ProgressBar\\ProgressBarClass.cs",
+              "ToolTip": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\ProgressBar\\ProgressBarClass.cs",
+              "RelativeToolTip": "PG_ODBC_TABExchangeV2\\ProgressBar\\ProgressBarClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:29:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\Program.cs",
+              "RelativeDocumentMoniker": "PG_ODBC_TABExchangeV2\\Program.cs",
+              "ToolTip": "D:\\PG_ODBC_TABExchangeV2\\PG_ODBC_TABExchangeV2\\Program.cs",
+              "RelativeToolTip": "PG_ODBC_TABExchangeV2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:29:17.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
